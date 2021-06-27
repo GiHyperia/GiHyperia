@@ -19,8 +19,8 @@ Fique a vontade para tirar dúvidas ou pedir ajuda, gosto de ajudar sempre que p
 
 ## 📚 Artigos e Palestras
 
-Você pode ver as gravações dos eventos que participei [aqui]<br/>
-E a lista dos materiais/apresentações [aqui]
+Você pode ver as gravações dos eventos que participei [aqui][3]<br/>
+E os artigos que já escrevi/participei [aqui][4]
 
 <!--
 **GiHyperia/GiHyperia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 [0]: https://www.instagram.com/gihyperia/
 [1]: https://www.linkedin.com/in/giovanaassis/
 [2]: https://github.com/GiHyperia
+[3]: https://github.com/GiHyperia/GiHyperia/blob/main/palestras.md
+[4]: https://github.com/GiHyperia/GiHyperia/blob/main/artigos.md
