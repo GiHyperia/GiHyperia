@@ -6,7 +6,7 @@
 - 🕵️‍♀️ SSL (Shift Security Left)
 - 🎮 Gamer
 - ♥️ Fã de Star Wars e Senhor dos Anéis
-- 📝 Escritora nas horas vagas
+- 📝 ~Wannabe de escritora nas horas vagas
 
 ## 💬 Como falar comigo?
 
