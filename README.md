@@ -12,15 +12,15 @@
 Você pode me encontrar usando os links abaixo ;)<br/>
 Fique a vontade para tirar dúvidas ou pedir ajuda, gosto de ajudar sempre que posso 😄
 
-- Twitter: [https://twitter.com/giihassisf][-1]
-- Instagram: [https://www.instagram.com/gihyperia/][0]
-- LinkedIn: [https://www.linkedin.com/in/giovanaassis/][1]
-- GitHub: [https://github.com/GiHyperia][2]
+<a href="https://twitter.com/giihassisf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/gihyperia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/giovanaassis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/GiHyperia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## 📚 Artigos e Palestras
 
-Você pode ver as gravações dos eventos que participei [aqui][3]<br/>
-E os artigos que já escrevi/participei [aqui][4]
+Você pode ver as gravações dos eventos que participei [aqui][0]<br/>
+E os artigos que já escrevi/participei [aqui][1]
 
 <!--
 **GiHyperia/GiHyperia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,9 +37,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[-1]: https://twitter.com/giihassisf
-[0]: https://www.instagram.com/gihyperia/
-[1]: https://www.linkedin.com/in/giovanaassis/
-[2]: https://github.com/GiHyperia
-[3]: https://github.com/GiHyperia/GiHyperia/blob/main/palestras.md
-[4]: https://github.com/GiHyperia/GiHyperia/blob/main/artigos.md
+[0]: https://github.com/GiHyperia/GiHyperia/blob/main/palestras.md
+[1]: https://github.com/GiHyperia/GiHyperia/blob/main/artigos.md
