@@ -6,6 +6,7 @@
 - 🕵️‍♀️ SSL (Shift Security Left)
 - 🎮 Gamer
 - ♥️ Fã de Star Wars e Senhor dos Anéis
+- 📝 Escritora nas horas vagas
 
 ## 💬 Como falar comigo?
 
@@ -16,6 +17,7 @@ Fique a vontade para tirar dúvidas ou pedir ajuda, gosto de ajudar sempre que p
 <a href="https://www.instagram.com/gihyperia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/giovanaassis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/GiHyperia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://giih-assis.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ## 📚 Artigos e Palestras
 
