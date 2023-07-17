@@ -1,6 +1,6 @@
 ## Giovana Assis
 
-- 🕵️‍♀️ Arquiteta de Segurança da Informação
+- 🕵️‍♀️ AppSec Manager
 - 🕵️‍♀️ Segurança de Aplicações
 - 🕵️‍♀️ DevSecOps
 - 🕵️‍♀️ SSL (Shift Security Left)
